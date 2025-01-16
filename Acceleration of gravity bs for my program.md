@@ -1,4 +1,4 @@
-# Acceleration of gravity bs for my program.md
+"Acceleration of gravity bs for my program.md" was originally written in [Obsidian](https://obsidian.md)
 
 ---
 
@@ -16,7 +16,7 @@ Which in this case would look like,
 
 $F=m1\cdot g$ -> (2)
 
->[!note] Why $m1$? Why not $m2$?
+>Why $m1$? Why not $m2$?
 >I used $m1$ because in my code that's the object that we're checking the velocity for.
 
 ---
