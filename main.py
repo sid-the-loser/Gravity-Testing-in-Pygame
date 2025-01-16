@@ -1,3 +1,6 @@
+# Code by: Sidharth S (aka. SidTheLoser)
+# I'll add comments and document this code later...
+
 from sidengine.gameobject import CelestialBody, gameobjects_in_scene
 from sidengine.app import App
 from sidengine import colors
