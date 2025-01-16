@@ -67,6 +67,7 @@ $\hat{vy}=\dfrac{G\cdot m2}{\hat{dy}^2}\cdot \hat{d_y}$ -> (9)
 
 (8) and (9) is to be added to the past velocity of the object to be added to $\hat{vx}$ and $\hat{vy}$,
 
-$\hat{vx_1}=\hat{vx_0}+\hat{vx}$
+$$\hat{vx_1}=\hat{vx_0}+\hat{vx}$$
 
-$\hat{vy_1}=\hat{vy_0}+\hat{vy}$
+$$\hat{vy_1}=\hat{vy_0}+\hat{vy}$$
+
